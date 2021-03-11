@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\MidLine\bin\Debug\MidLine.exe.config
+C:\Users\Admin\source\repos\MidLine\bin\Debug\MidLine.exe
+C:\Users\Admin\source\repos\MidLine\bin\Debug\MidLine.pdb
+C:\Users\Admin\source\repos\MidLine\obj\Debug\MidLine.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MidLine\obj\Debug\MidLine.MainForm.resources
+C:\Users\Admin\source\repos\MidLine\obj\Debug\MidLine.Properties.Resources.resources
+C:\Users\Admin\source\repos\MidLine\obj\Debug\MidLine.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MidLine\obj\Debug\MidLine.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MidLine\obj\Debug\MidLine.exe
+C:\Users\Admin\source\repos\MidLine\obj\Debug\MidLine.pdb
+C:\Users\Admin\source\repos\MidLine\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\source\repos\MidLine\bin\Debug\MetroFramework.dll
+C:\Users\Admin\source\repos\MidLine\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\source\repos\MidLine\obj\Debug\MidLine.csproj.CopyComplete
